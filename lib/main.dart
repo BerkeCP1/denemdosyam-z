@@ -18,6 +18,7 @@ void main() {
   });
 }
 
+//berke deneme
 // deneme dosyamız
 class MyApp extends StatelessWidget {
   @override
