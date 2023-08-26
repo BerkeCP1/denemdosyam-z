@@ -7,6 +7,7 @@ import 'package:flutter_crud_with_bloc_library/bloc/user_form/user_form_bloc.dar
 import 'package:flutter_crud_with_bloc_library/bloc/user_list/bloc.dart';
 import 'package:flutter_crud_with_bloc_library/ui/view/user/list.dart';
 
+// deneme diyorum
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   Bloc.observer = SimpleBlocObserver();
@@ -16,6 +17,7 @@ void main() {
     runApp(MyApp());
   });
 }
+
 // deneme dosyamız
 class MyApp extends StatelessWidget {
   @override
