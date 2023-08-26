@@ -16,7 +16,7 @@ void main() {
     runApp(MyApp());
   });
 }
-
+// deneme dosyamız
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
